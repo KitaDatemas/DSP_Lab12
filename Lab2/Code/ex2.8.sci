@@ -22,3 +22,4 @@ subplot(3,1,3);
 plot2d3(n3, y3); 
 plot(n3, y3, "ko"); 
 title("y3(n) = 2x(-n-2)");
+xs2png(gcf(), "ex2.8.png")

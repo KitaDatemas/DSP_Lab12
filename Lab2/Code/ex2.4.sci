@@ -8,3 +8,4 @@ endfunction
 
 n=-5:5;
 plot(n, unit_ramp)
+xs2png(gcf(), "ex2.4.png")
